@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "609141b99a2f5c8708bda9cb"
+  },
+  "firstName": "Ross",
+  "lastName": "Gellar",
+  "email": "rg@gmail.com",
+  "password": "$2b$10$kI5wluBCiAYNScz9qNBJU.LCC.Il7p5dcxU3spOM88ksf7QNU9TOq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609141ea9a2f5c8708bda9cc"
+  },
+  "firstName": "Monica",
+  "lastName": "Gellar",
+  "email": "mg@gmail.com",
+  "password": "$2b$10$n6cE.JV.HLmTR8ccAlH58Ok3bwY4suBSnXdOXOrLMD50eusJmNSZO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6091420f9a2f5c8708bda9cd"
+  },
+  "firstName": "Rachel",
+  "lastName": "Green",
+  "email": "rgr@gmail.com",
+  "password": "$2b$10$R1lzMrM//amvO5eXsYFpK.9gUno8fNwbDK1KHPuDDqZanEnPKJ6dK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6091422f9a2f5c8708bda9ce"
+  },
+  "firstName": "Chandler",
+  "lastName": "Bing",
+  "email": "cb@gmail.com",
+  "password": "$2b$10$6habPfI3GKSOIK9LjflJ2e22dHaj879ttjZns8H8SnOMn2NWQZXjG",
+  "__v": 0
+}]

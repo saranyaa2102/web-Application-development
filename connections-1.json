@@ -1,0 +1,342 @@
+[{
+  "_id": {
+    "$oid": "6091428b9a2f5c8708bda9cf"
+  },
+  "category": "Books",
+  "title": "Meet your favorite authors",
+  "sub_title": "Meet your Favourite Authors Every Week",
+  "details": "When words in the book spoke so much to you, how about meeting the person behind those words. ?! Exited, aren&amp;#x27;t you ? Do visit the venue to meet the author.",
+  "location": "Dale F. Halton Area, UNC Charlotte",
+  "start_date": "2021-05-21",
+  "end_date": "2021-05-21",
+  "start_time": "10:00",
+  "end_time": "12:00",
+  "image": "/images/author.jpg",
+  "author": {
+    "$oid": "609141b99a2f5c8708bda9cb"
+  },
+  "__v": 0,
+  "rsvp": [
+    {
+      "_id": {
+        "$oid": "6095ce932f93883bdc50de11"
+      },
+      "user": {
+        "$oid": "6091420f9a2f5c8708bda9cd"
+      },
+      "rsvpResponse": "yes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "609142cf9a2f5c8708bda9d0"
+  },
+  "category": "Music",
+  "title": "Music Concert",
+  "sub_title": "Music Concert From your favourite band",
+  "details": "Taco Bell&amp;#x27;s Feed the Beat has helped more than 1,700 artists&amp;#x2F;bands. This concert presents diversed music flavours . Book your visit and cherish the music taste. NOTE: Covid-19 prevention guidelines applied.",
+  "location": "1 State Farm Dr, Atlanta, GA 30303",
+  "start_date": "2021-05-27",
+  "end_date": "2021-05-28",
+  "start_time": "10:30",
+  "end_time": "18:00",
+  "image": "/images/concert.jpg",
+  "author": {
+    "$oid": "609141b99a2f5c8708bda9cb"
+  },
+  "__v": 0,
+  "rsvp": []
+},{
+  "_id": {
+    "$oid": "609143149a2f5c8708bda9d1"
+  },
+  "category": "Fitness",
+  "title": "Fitness and Dietary Camp",
+  "sub_title": "Dietary Camping",
+  "details": "Do you feel like a couch potato in the silicon Valley? No worries. You are sailing on the same boat as many other potatos. Visit the camp and get to know about the nutrition and healty diets to become fit.",
+  "location": "Los Angeles Convention Center, 1201 South Figueroa Street LA, California 90015",
+  "start_date": "2021-05-12",
+  "end_date": "2021-05-13",
+  "start_time": "10:00",
+  "end_time": "18:00",
+  "image": "/images/fitness_Camp.jpg",
+  "author": {
+    "$oid": "609141b99a2f5c8708bda9cb"
+  },
+  "__v": 0,
+  "rsvp": []
+},{
+  "_id": {
+    "$oid": "6091435a9a2f5c8708bda9d2"
+  },
+  "category": "Food",
+  "title": "The Chef Meet",
+  "sub_title": "Tastes Collab when Chefs Meet",
+  "details": "This event is a meetup of The Chefs from diversed star hotel groups, small scale restaurants &amp;amp;amp; your street food makers. They will share the secret recepies of their favourite dishes. What are you waiting for? Visit &amp;amp;amp; know about the secret recepie.",
+  "location": "The Orland, 14500 S La Grange Rd Orland Park, IL 60462",
+  "start_date": "2021-06-21",
+  "end_date": "2021-06-22",
+  "start_time": "10:00",
+  "end_time": "13:00",
+  "image": "/images/ChefMeet.jpg",
+  "author": {
+    "$oid": "609141b99a2f5c8708bda9cb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609143fa9a2f5c8708bda9d4"
+  },
+  "category": "Music",
+  "title": "Art and Music Festival",
+  "sub_title": "Music Festival",
+  "details": "This music festival offers best music concerts, sale for musical instruments for best deals, Meet up with great musicians, on-spot singing &amp;amp;amp;amp;amp; win opportunity for singing with best music directors. NOTE: Covid-19 prevention guidelines applied.",
+  "location": "Randall Island, New York City, NY",
+  "start_date": "2021-06-28",
+  "end_date": "2021-06-30",
+  "start_time": "09:00",
+  "end_time": "19:00",
+  "image": "/images/music_Festival.jpg",
+  "author": {
+    "$oid": "609141ea9a2f5c8708bda9cc"
+  },
+  "__v": 0,
+  "rsvp": [
+    {
+      "_id": {
+        "$oid": "6095d82f64ea6f979cbc7162"
+      },
+      "user": {
+        "$oid": "6091420f9a2f5c8708bda9cd"
+      },
+      "rsvpResponse": "yes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6091445f9a2f5c8708bda9d5"
+  },
+  "category": "Fitness",
+  "title": "Yoga For All",
+  "sub_title": "Join The Yoga Crowd",
+  "details": "Yoga gives you good health, mind and focus. Its time to take care of yourself. Please join the event &amp;amp; get benefited.",
+  "location": "Asbury Park Convention Hall, 1300 Ocean Ave, Asbury Park, NJ 07712",
+  "start_date": "2021-05-19",
+  "end_date": "2021-05-20",
+  "start_time": "07:00",
+  "end_time": "09:00",
+  "image": "/images/yoga.jpg",
+  "author": {
+    "$oid": "609141ea9a2f5c8708bda9cc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6091449b9a2f5c8708bda9d6"
+  },
+  "category": "Food",
+  "title": "Food Festival",
+  "sub_title": "Food Festival is here for you",
+  "details": "From home made food to international cuisine, this food festival is hosted to serve the visitors with multi national cuisine. What are you waiting for? Grab a ticket &amp;amp; enter the food counters!",
+  "location": "The Convention Hall, 415 Summer St, Boston, MA 02210",
+  "start_date": "2021-05-28",
+  "end_date": "2021-05-30",
+  "start_time": "10:00",
+  "end_time": "19:00",
+  "image": "/images/FoodFestival.JPG",
+  "author": {
+    "$oid": "609141ea9a2f5c8708bda9cc"
+  },
+  "__v": 0,
+  "rsvp": [
+    {
+      "_id": {
+        "$oid": "6095ce9a2f93883bdc50de13"
+      },
+      "user": {
+        "$oid": "6091420f9a2f5c8708bda9cd"
+      },
+      "rsvpResponse": "yes"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6091452c9a2f5c8708bda9d8"
+  },
+  "category": "Music",
+  "title": "Jazz Concert",
+  "sub_title": "Jazz Concert from the natives",
+  "details": "Want to feel and taste the Jazz ! This concert is for you. NOTE: Covid-19 prevention guidelines applied.",
+  "location": "The Hall, 520 South Michigan Avenue,Chicago, IL - 60605",
+  "start_date": "2021-05-30",
+  "end_date": "2021-05-31",
+  "start_time": "18:00",
+  "end_time": "21:00",
+  "image": "/images/jazz_festival.jpg",
+  "author": {
+    "$oid": "6091420f9a2f5c8708bda9cd"
+  },
+  "__v": 0,
+  "rsvp": [
+    {
+      "_id": {
+        "$oid": "6095cd2bf45bf1527c384e1e"
+      },
+      "user": {
+        "$oid": "609141ea9a2f5c8708bda9cc"
+      },
+      "rsvpResponse": "no"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "609145709a2f5c8708bda9d9"
+  },
+  "category": "Fitness",
+  "title": "Zumba Zeal",
+  "sub_title": "zumba class for Zeal",
+  "details": "Want an power packed energetic day?! What are you waiting for, Jump into the zumba class &amp;amp;amp; enjoy.",
+  "location": "Washington Convention Center, 705 Pike St, Seattle, WA 98101",
+  "start_date": "2021-05-22",
+  "end_date": "2021-05-23",
+  "start_time": "06:00",
+  "end_time": "08:00",
+  "image": "/images/zumba.jpg",
+  "author": {
+    "$oid": "6091420f9a2f5c8708bda9cd"
+  },
+  "__v": 0,
+  "rsvp": []
+},{
+  "_id": {
+    "$oid": "609145ac9a2f5c8708bda9da"
+  },
+  "category": "Food",
+  "title": "Cooking Compatition",
+  "sub_title": "Pan-Plate-Heart",
+  "details": "Are you a chef @ home ? Become chef for everybody&amp;amp;#x27;s home by showcasing your cooking skills by participating in the competition. Register in the website of Star World.",
+  "location": "The Orland, 14500 S La Grange Rd Orland Park, IL 60462",
+  "start_date": "2021-06-09",
+  "end_date": "2021-06-09",
+  "start_time": "08:00",
+  "end_time": "16:00",
+  "image": "/images/compatition.jpg",
+  "author": {
+    "$oid": "6091420f9a2f5c8708bda9cd"
+  },
+  "__v": 0,
+  "rsvp": []
+},{
+  "_id": {
+    "$oid": "609146139a2f5c8708bda9db"
+  },
+  "category": "Books",
+  "title": "Book Fair",
+  "sub_title": "Queen City Book Fair",
+  "details": "We cordially invite everyone to a visit our book fair comprising book of various genre. We offer great offers. Do visit the fair &amp;amp; enjoy!",
+  "location": "The Carole Hoefener Center, 615 E 6th St, Charlotte, NC",
+  "start_date": "2021-05-25",
+  "end_date": "2021-05-30",
+  "start_time": "10:30",
+  "end_time": "20:30",
+  "image": "/images/bookFair.jpg",
+  "author": {
+    "$oid": "6091422f9a2f5c8708bda9ce"
+  },
+  "__v": 0,
+  "rsvp": []
+},{
+  "_id": {
+    "$oid": "609146a89a2f5c8708bda9dd"
+  },
+  "category": "Fitness",
+  "title": "Equipment and Membership Offer",
+  "sub_title": "Gym Offer",
+  "details": "Are you a fitness freak ? Want gym at home? Want to get early offers on your gym membership? Visit the event &amp;amp;amp; get benefited from various fitness companies.",
+  "location": "San Diego Convention Center,111 W Harbor Dr,San Diego,CA 92101",
+  "start_date": "2021-05-19",
+  "end_date": "2021-05-20",
+  "start_time": "10:00",
+  "end_time": "20:30",
+  "image": "/images/gym_offer.jpg",
+  "author": {
+    "$oid": "6091422f9a2f5c8708bda9ce"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092b7bebbc7050570dc7ed2"
+  },
+  "category": "Books",
+  "title": "Want to publish your book?",
+  "sub_title": "The Publisher Meet",
+  "details": "Willing to publicize your work ? The Mcmillan Group is organizing a fair where the famous publishers collaborate and provide great deals. Visit and book a deal to publish your work.",
+  "location": "Dale F. Halton Area, UNC Charlotte",
+  "start_date": "2021-06-09",
+  "end_date": "2021-06-10",
+  "start_time": "09:00",
+  "end_time": "14:00",
+  "image": "/images/publishers.jpg",
+  "rsvp": [
+    {
+      "_id": {
+        "$oid": "6095a27f8db03d84b8264da4"
+      },
+      "user": {
+        "$oid": "609141b99a2f5c8708bda9cb"
+      },
+      "rsvpResponse": "yes"
+    },
+    {
+      "_id": {
+        "$oid": "6095cb46f45bf1527c384e1b"
+      },
+      "user": {
+        "$oid": "6091422f9a2f5c8708bda9ce"
+      },
+      "rsvpResponse": "yes"
+    }
+  ],
+  "author": {
+    "$oid": "609141ea9a2f5c8708bda9cc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092b8dbbbc7050570dc7ed4"
+  },
+  "category": "Books",
+  "title": "Share (or) Sell a book",
+  "sub_title": "Sell Used Books (or) Share Books For a while",
+  "details": "Want to sell out pile of your old but meaningful books? Want to share book to someone who is looking for it? Explore the options by visiting the event.",
+  "location": "72 Noble St, Brooklyn, NY 11222",
+  "start_date": "2021-05-28",
+  "end_date": "2021-05-29",
+  "start_time": "08:00",
+  "end_time": "21:00",
+  "image": "/images/sharebook.jpg",
+  "rsvp": [],
+  "author": {
+    "$oid": "6091420f9a2f5c8708bda9cd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6092ca41f13a61460c4b53c7"
+  },
+  "category": "Music",
+  "title": "Music Conference",
+  "sub_title": "Music Conference with the Directors",
+  "details": "Meet the top musicians and get a chance to interact with them. NOTE: Covid-19 prevention guidelines applied.",
+  "location": "Concord, 1480 Concord Pkwy N, Concord, NC 28026",
+  "start_date": "2021-05-11",
+  "end_date": "2021-05-14",
+  "start_time": "13:00",
+  "end_time": "19:00",
+  "image": "/images/conference.jpg",
+  "rsvp": [],
+  "author": {
+    "$oid": "6091422f9a2f5c8708bda9ce"
+  },
+  "__v": 0
+}]
