@@ -8,3 +8,5 @@ Phase3: Mongo DB Integration with Application
 Phase4: User Integration
 Phase5: Web App Security
 Phase 6: Ticket purchasing feature with payment method 
+
+Web Site Theme: Event Based Themes
