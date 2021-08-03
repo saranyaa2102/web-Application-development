@@ -3,7 +3,7 @@ Web Application Development with Node.js, Express Framework, MongoDB
 This Web application was built in a different phases 
 
 Phase1: Front End Deveopment 
-Phase2: Html to Express Framework implementation - MVC pattern 
+Phase2: Html to Express Framework implementation - MVC Model 
 Phase3: Mongo DB Integration with Application
 Phase4: User Integration
 Phase5: Web App Security
